@@ -8,7 +8,7 @@ import firebase from 'firebase/app'
 import 'firebase/firestore'
 
 var config = {
-  apiKey: 'AIzaSyCPOIOxFxXUyYcwNwmVZyT-Qb-gQz2w7XQ',
+  apiKey: '',
   authDomain: 'ln-pkr.firebaseapp.com',
   databaseURL: 'https://ln-pkr.firebaseio.com',
   projectId: 'ln-pkr'
